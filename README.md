@@ -1,39 +1,83 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Basic Information 
+nav_order: 1
 permalink: /:path/
 seo:
   type: Course
   name: Just the Class
 ---
 
-# Just the Class
+# Natural Language Understanding and Computational Semantics
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+**DS-GA 1012/LING-GA 1012, Spring 2024**<br />
+**New York University**
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+This is an advanced master's level course in natural language processing, with focus on the representation of meaning at
+various linguistic levels. Students will learn basic techniques in deep learning, transfer learning, and in-context
+adaptation while being introduced to natural language understanding tasks such as text classification, syntactic and
+semantic parsing, and question answering. The course will culminate in an original research project completed by the
+student in collaboration with two to three classmates.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Course Staff
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+#### Instructor
 
-## Getting Started
+* Sophie Hao **she/her**{: .label } (NYU email: `sophie.hao`)
 
-Getting started with Just the Class is simple.
+#### Section Leaders
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+* Cara Leong **she/her**{: .label } 
+* Jackson Petty **he/him**{: .label } 
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+#### Graders
 
-### Local development environment
+* Anisha Bhatnagar **she/her**{: .label } 
+* Nori Naka **he/him**{: .label } 
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+## Logistics
+
+All class sessions take place **in person** in **Room G08** of
+[12 Waverly Place](https://goo.gl/maps/3qye7472KPRqERbi8). They will also be live-streamed on Zoom and recorded.
+
+#### Lectures
+
+Tuesdays, 10:00–11:40, with Sophie ([Zoom](https://nyu.zoom.us/j/92410947089))
+
+#### Lab
+
+Thursdays, 11:15–12:05, with Lorena or Namrata ([Zoom](https://nyu.zoom.us/j/94134057762))
+
+#### Office Hours
+
+Office hours take place **in person** at [60 5th Ave](https://goo.gl/maps/ebreTwPLgwXsyKZZ6).
+
+Tuesdays, 3:00–4:00, with Namrata in Room 763  
+Thursdays, 12:30–1:30, with Lorena in Room 763  
+Fridays, 11:00–12:00, with Sophie in Room 700
+
+## Prerequisites
+
+The recommended prerequisite for this course is _Natural Language Processing with Representation Learning_ (DS-GA 1011).
+You will still be able to register for the course if you have not taken DS-GA 1011, but please be aware that this is an
+advanced course. Students are expected to have seen most of the following concepts before.
+
+{: .note }
+> #### Calculus and Linear Algebra
+> Partial derivatives, gradients, vectors, matrices, matrix multiplication, vector spaces
+>
+> #### Probability and Statistics
+> Probability distributions, conditional probabilities, Bayes's theorem, linear regression
+>
+> #### Machine Learning and Data Science
+> Features (discrete vs. continuous), optimization, train/dev/test, dimensionality reduction (e.g., PCA)
+>
+> #### Python Programming
+> Basic syntax, iterables/comprehension, Jupyter notebooks, package managers (e.g., `pip`), modules, object-oriented programming, data types
+>
+> #### Natural Language Processing
+> Tokenization, vector semantics, language modeling
+
+Since this is a graduate-level course with students from a diverse array of backgrounds (data science, computer science,
+linguistics, and undergrads), many students will be unfamiliar with one or more of the above topics. This is okay, as
+long as you feel comfortable looking up anything that you don't understand or asking for help when necessary. 
