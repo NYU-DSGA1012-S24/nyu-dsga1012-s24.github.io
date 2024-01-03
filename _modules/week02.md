@@ -2,7 +2,7 @@
 title: Week 2, Jan. 30/31
 ---
 
-### TBD
+### Deep Learning
 
 TBD
 
