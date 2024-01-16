@@ -13,11 +13,7 @@ seo:
 **DS-GA 1012/LING-GA 1012, Spring 2024**<br />
 **New York University**
 
-This is an advanced master's level course in natural language processing, with focus on the representation of meaning at
-various linguistic levels. Students will learn basic techniques in deep learning, transfer learning, and in-context
-adaptation while being introduced to natural language understanding tasks such as text classification, syntactic and
-semantic parsing, and question answering. The course will culminate in an original research project completed by the
-student in collaboration with two to three classmates.
+Since at least the proposal of the Turing test, building computational systems that can communicate with humans using natural language has been a central goal for Al research. Understanding real, naturally occurring human language is the key to reaching this goal. This course surveys recent successes in language understanding and prepares students to do original research in this area, culminating with a substantial final project. The course will focus on text, but within that will touch on the full range of applicable techniques for language understanding, including formal logics, statistical methods, distributional methods, and deep learning, and will bring in ideas from formal linguistics where they can be readily used in practice. We'll discuss tasks like sentiment analysis, word similarity, and question answering, as well as higher level issues like how to effectively represent language meaning.
 
 ## Course Staff
 
@@ -33,6 +29,7 @@ student in collaboration with two to three classmates.
 #### Graders
 
 * Anisha Bhatnagar **she/her**{: .label } 
+* Manoj Middepogu **he/him**{: .label } 
 * Nori Naka **he/him**{: .label } 
 
 ## Logistics
@@ -42,19 +39,24 @@ All class sessions take place **in person** in **Room G08** of
 
 #### Lectures
 
-Tuesdays, 10:00–11:40, with Sophie ([Zoom](https://nyu.zoom.us/j/92410947089))
+Tuesdays, 6:45 PM–8:25 PM, with Sophie <!-- ([Zoom](https://nyu.zoom.us/j/92410947089)) -->
 
 #### Lab
 
-Thursdays, 11:15–12:05, with Lorena or Namrata ([Zoom](https://nyu.zoom.us/j/94134057762))
+Wednesdays, 7:10 PM–8:00 PM, with Cara or Jackson <!-- ([Zoom](https://nyu.zoom.us/j/94134057762)) -->
 
 #### Office Hours
 
-Office hours take place **in person** at [60 5th Ave](https://goo.gl/maps/ebreTwPLgwXsyKZZ6).
+TBD.
 
-Tuesdays, 3:00–4:00, with Namrata in Room 763  
-Thursdays, 12:30–1:30, with Lorena in Room 763  
-Fridays, 11:00–12:00, with Sophie in Room 700
+[//]: # (Office hours take place **in person** at [60 5th Ave]&#40;https://goo.gl/maps/ebreTwPLgwXsyKZZ6&#41;.)
+
+[//]: # ()
+[//]: # (Tuesdays, 3:00–4:00, with Namrata in Room 763  )
+
+[//]: # (Thursdays, 12:30–1:30, with Lorena in Room 763  )
+
+[//]: # (Fridays, 11:00–12:00, with Sophie in Room 700)
 
 ## Prerequisites
 
