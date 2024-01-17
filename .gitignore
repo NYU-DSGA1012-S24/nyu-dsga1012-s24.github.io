@@ -7,3 +7,9 @@ Gemfile.lock
 _site/
 node_modules/
 vendor/
+.idea/misc.xml
+.idea/modules.xml
+.idea/syllabus.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml

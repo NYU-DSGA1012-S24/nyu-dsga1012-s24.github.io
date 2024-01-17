@@ -4,9 +4,7 @@ title: Week 1, Jan. 23/24
 
 ### What Is Meaning?
 
-We introduce the concept of meaning in natural language, taking inspiration from linguists, philosophers, and data  
-scientists. We learn about the word2vec model of semantics and examine in what sense and to what extent it models the
-"meaning" of individual words.
+We introduce the concept of meaning in natural language, taking inspiration from linguists, philosophers, and data scientists. We learn about the word2vec model of semantics and examine in what sense and to what extent it models the "meaning" of individual words.
 
 Topics
 : Lexical semantics, word embeddings, the distributional hypothesis
