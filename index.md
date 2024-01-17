@@ -55,10 +55,6 @@ TBD, with Sophie, Cara, or Jackson
 [//]: # (Thursdays, 12:30–1:30, with Lorena in Room 763  )
 [//]: # (Fridays, 11:00–12:00, with Sophie in Room 700)
 
-[//]: # ({% for schedule in site.schedules %})
-[//]: # ({{ schedule }})
-[//]: # ({% endfor %})
-
 ## Prerequisites
 
 The recommended prerequisite for this course is _Natural Language Processing with Representation Learning_ (DS-GA 
