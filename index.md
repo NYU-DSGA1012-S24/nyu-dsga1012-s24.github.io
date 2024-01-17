@@ -47,26 +47,22 @@ Wednesdays, 7:10 PM–8:00 PM, with Cara or Jackson <!-- ([Zoom](https://nyu.zoo
 
 #### Office Hours
 
-TBD, with Sophie, Cara, and Jackson
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
+TBD, with Sophie, Cara, or Jackson
 
 [//]: # (Office hours take place **in person** at [60 5th Ave]&#40;https://goo.gl/maps/ebreTwPLgwXsyKZZ6&#41;.)
-
 [//]: # ()
 [//]: # (Tuesdays, 3:00–4:00, with Namrata in Room 763  )
-
 [//]: # (Thursdays, 12:30–1:30, with Lorena in Room 763  )
-
 [//]: # (Fridays, 11:00–12:00, with Sophie in Room 700)
+
+[//]: # ({% for schedule in site.schedules %})
+[//]: # ({{ schedule }})
+[//]: # ({% endfor %})
 
 ## Prerequisites
 
-The recommended prerequisite for this course is _Natural Language Processing with Representation Learning_ (DS-GA 1011).
-You will still be able to register for the course if you have not taken DS-GA 1011, but please be aware that this is an
-advanced course. Students are expected to have seen most of the following concepts before.
+The recommended prerequisite for this course is _Natural Language Processing with Representation Learning_ (DS-GA 
+1011); however, it is not required. Students are expected to have had some experience with the following concepts.
 
 {: .note }
 > #### Calculus and Linear Algebra
@@ -76,7 +72,7 @@ advanced course. Students are expected to have seen most of the following concep
 > Probability distributions, conditional probabilities, Bayes's theorem, linear regression
 >
 > #### Machine Learning and Data Science
-> Features (discrete vs. continuous), optimization, train/dev/test, dimensionality reduction (e.g., PCA)
+> Features (discrete vs. continuous), optimization, train/dev/test, dimensionality reduction (e.g., PCA), deep learning
 >
 > #### Python Programming
 > Basic syntax, iterables/comprehension, Jupyter notebooks, package managers (e.g., `pip`), modules, object-oriented programming, data types
