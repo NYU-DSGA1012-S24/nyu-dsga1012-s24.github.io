@@ -13,7 +13,7 @@ seo:
 **DS-GA 1012/LING-GA 1012, Spring 2024**<br />
 **New York University**
 
-Since at least the proposal of the Turing test, building computational systems that can communicate with humans using natural language has been a central goal for Al research. Understanding real, naturally occurring human language is the key to reaching this goal. This course surveys recent successes in language understanding and prepares students to do original research in this area, culminating with a substantial final project. The course will focus on text, but within that will touch on the full range of applicable techniques for language understanding, including formal logics, statistical methods, distributional methods, and deep learning, and will bring in ideas from formal linguistics where they can be readily used in practice. We'll discuss tasks like sentiment analysis, word similarity, and question answering, as well as higher level issues like how to effectively represent language meaning.
+Since at least the proposal of the Turing test, building computational systems that can communicate with humans using natural language has been a central goal for Al research. Understanding real, naturally occurring human language is the key to reaching this goal. This course surveys recent successes in language understanding and prepares students to do original research in this area, culminating with a substantial final project. 
 
 ## Course Staff
 
@@ -47,7 +47,11 @@ Wednesdays, 7:10 PM–8:00 PM, with Cara or Jackson <!-- ([Zoom](https://nyu.zoo
 
 #### Office Hours
 
-TBD.
+TBD, with Sophie, Cara, and Jackson
+
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}
 
 [//]: # (Office hours take place **in person** at [60 5th Ave]&#40;https://goo.gl/maps/ebreTwPLgwXsyKZZ6&#41;.)
 
