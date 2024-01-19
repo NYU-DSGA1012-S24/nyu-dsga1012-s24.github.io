@@ -7,10 +7,17 @@ title: Week 1, Jan. 23/24
 We introduce the concept of meaning in natural language, taking inspiration from linguists, philosophers, and data scientists. We learn about the word2vec model of semantics and examine in what sense and to what extent it models the "meaning" of individual words.
 
 Lecture
-: *Topics:* Lexical semantics, the distributional hypothesis, word embeddings, CBOW
+: Lexical semantics, the distributional hypothesis, word embeddings, CBOW
 
 Lab
-: *Activity:* Linear analogies, exploration of embedding spaces
+: Linear analogies, evaluation of embedding spaces
+
+Reading
+: **Handout**{: .label .label-yellow } [Week 1 Handout: Lexical Semantics](https://drive.google.com/file/d/1cot4iIwgIrQjC8jGYbhM4SnnHSB2oaRQ/view?usp=drive_link)
+: **SLP**{: .label .label-yellow } [Chapters 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) and [6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+: **D2L**{: .label .label-yellow } [Sections 15.1, 15.5–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), on word2vec, GloVe, and subword embeddings
+: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781), the word2vec paper
+: [Pennington et al. (2014)](https://nlp.stanford.edu/pubs/glove.pdf), the GloVe paper
 
 <!--
 Lecture
@@ -21,9 +28,3 @@ Lab
 : [Colab Notebook](https://colab.research.google.com/drive/1ehOgBO1iqIITO5T1w5SN5ExhPPs-nSrR?usp=sharing),
 [Zoom Recording](https://nyu.zoom.us/rec/share/uoPqYrtBEgIO8ihJqpaat0xKCCGJ2yHYqVJw5ayYDsZFxdthEpfWzog2_Gxbcur-.77NL8dp_0H7QQl-L)
 -->
-
-Reading
-: **Handout**{: .label .label-yellow } [on lexical semantics](https://drive.google.com/file/d/1cot4iIwgIrQjC8jGYbhM4SnnHSB2oaRQ/view?usp=drive_link)
-: **D2L**{: .label .label-yellow } [Sections 15.1, 15.5–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), on word2vec, GloVe, and subword embeddings
-: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781), the word2vec paper
-: [Pennington et al. (2014)](https://nlp.stanford.edu/pubs/glove.pdf), the GloVe paper
