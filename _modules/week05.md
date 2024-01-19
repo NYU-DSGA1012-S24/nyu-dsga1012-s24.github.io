@@ -2,6 +2,6 @@
 title: Week 5, Feb. 20/21
 ---
 
-### Language Modeling
+### Language Modeling and Text Generation
 
 TBD

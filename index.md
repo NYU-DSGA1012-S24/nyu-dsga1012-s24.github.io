@@ -39,21 +39,21 @@ All class sessions take place **in person** in **Room G08** of
 
 #### Lectures
 
-Tuesdays, 6:45 PM–8:25 PM, with Sophie <!-- ([Zoom](https://nyu.zoom.us/j/92410947089)) -->
+Tuesdays, 6:45 PM–8:25 PM, with Sophie<br />
+Room G08, [12 Waverly Place](https://goo.gl/maps/3qye7472KPRqERbi8)<!-- ([Zoom](https://nyu.zoom.us/j/92410947089)) -->
 
 #### Lab
 
-Wednesdays, 7:10 PM–8:00 PM, with Cara or Jackson <!-- ([Zoom](https://nyu.zoom.us/j/94134057762)) -->
+Wednesdays, 7:10 PM–8:00 PM, with Cara or Jackson<br />
+Room 102, [19 University Place](https://maps.app.goo.gl/gZFoDtF17dD4VAH97) <!-- ([Zoom](https://nyu.zoom.us/j/94134057762)) -->
 
 #### Office Hours
 
-TBD, with Sophie, Cara, or Jackson
+Wednesdays, 5:00 PM–6:00 PM, with Cara<br />
+Room 307, [Arthur L. Carter Hall (10 Washington Place)](https://maps.app.goo.gl/AUKATEnYwBccmE4v8)
 
-[//]: # (Office hours take place **in person** at [60 5th Ave]&#40;https://goo.gl/maps/ebreTwPLgwXsyKZZ6&#41;.)
-[//]: # ()
-[//]: # (Tuesdays, 3:00–4:00, with Namrata in Room 763  )
-[//]: # (Thursdays, 12:30–1:30, with Lorena in Room 763  )
-[//]: # (Fridays, 11:00–12:00, with Sophie in Room 700)
+Fridays, 11:00 AM–12:00 PM, with Sophie<br />
+Room 700, [60 5th Avenue](https://maps.app.goo.gl/vmJ9bgaZyJDrRj5c6)
 
 ## Prerequisites
 
