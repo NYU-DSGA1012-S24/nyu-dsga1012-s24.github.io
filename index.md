@@ -34,8 +34,7 @@ Since at least the proposal of the Turing test, building computational systems t
 
 ## Logistics
 
-All class sessions take place **in person** in **Room G08** of
-[12 Waverly Place](https://goo.gl/maps/3qye7472KPRqERbi8). They will also be live-streamed on Zoom and recorded.
+Class sessions take place in-person and on Zoom. Recordings will be provided.
 
 #### Lectures
 
