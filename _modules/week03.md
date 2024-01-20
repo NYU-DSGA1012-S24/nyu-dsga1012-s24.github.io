@@ -4,18 +4,19 @@ title: Week 3, Feb. 6/7
 
 ### The Meaning of a Text
 
-We extend word2vec's distributional method to sequences of words, allowing us to obtain embeddings that represent 
-sentences, paragraphs, and even entire documents. We learn about the BERT model and the Transformer encoder 
-architecture that underlies it. In lab, we learn about _natural language inference_ (NLI), a task designed to test a 
-model's understanding of natural language sentences.
+We extend word2vec's distributional method to sequences of words, allowing us to obtain embeddings that represent sentences, paragraphs, and even entire documents. We learn about the BERT model and the Transformer encoder architecture that underlies it. We use the Turing test to evaluate BERT's understanding of natural language.
 
 Lecture
-: Stochastic gradient descent, Adam, automatic differentiation, PyTorch
+: Transformers, BERT, transfer learning, foundation models
 
 Lab
-: Sentiment classification using a multi-layer perceptron
+: Natural language inference with BERT
 
 Reading
-: **D2L**{: .label .label-yellow } [Section 2.5](https://d2l.ai/chapter_preliminaries/autograd.html) and [Chapter 5](https://d2l.ai/chapter_multilayer-perceptrons)
-: [Turing (1950)](https://doi.org/10.1093/mind/LIX.236.433), on the Imitation Game (Turing Test)
-: [Pennington et al. (2014)](https://nlp.stanford.edu/pubs/glove.pdf), the GloVe paper
+: **Notes**{: .label .label-yellow } Week 3 Handout: Transformers
+: **SLP**{: .label .label-yellow } [Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
+: **D2L**{: .label .label-yellow } [Chapter 11](https://d2l.ai/chapter_attention-mechanisms-and-transformers) (skip Sections 11.2, 11.4, and 11.8), [Sections 15.8—15.10](https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html), and [Sections 16.4—16.7](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html) (skip Section 16.5)
+: **LING2**{: .label .label-yellow } [Chapter 11](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_11) and [Chapter 13, #89–90](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_13)
+: [Turing (1950)](https://doi.org/10.1093/mind/LIX.236.433), on the imitation game (Turing test)
+: [Bowman et al. (2015)](https://arxiv.org/abs/1508.05326), on NLI and the SNLI benchmark
+: [Wang et al. (2019a)](https://openreview.net/pdf?id=rJ4km2R5t7) and [Wang et al. (2019b)](https://w4ngatang.github.io/static/papers/superglue.pdf), on the [GLUE](https://gluebenchmark.com/) and [SuperGLUE](https://super.gluebenchmark.com/) benchmarks, respectively

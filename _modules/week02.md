@@ -15,4 +15,4 @@ Lab
 Reading
 : **Notes**{: .label .label-yellow } Week 2 Handout: Deep Learning
 : **SLP**{: .label .label-yellow } [Chapter 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
-: **D2L**{: .label .label-yellow } [Chapter 1](https://d2l.ai/chapter_introduction), [Section 2.5](https://d2l.ai/chapter_preliminaries/autograd.html), and [Chapter 5](https://d2l.ai/chapter_multilayer-perceptrons)
+: **D2L**{: .label .label-yellow } [Chapter 1](https://d2l.ai/chapter_introduction), [Section 2.5](https://d2l.ai/chapter_preliminaries/autograd.html), [Chapter 5](https://d2l.ai/chapter_multilayer-perceptrons), and [Section 19.1](https://d2l.ai/chapter_hyperparameter-optimization) (the rest of the chapter is optional)
