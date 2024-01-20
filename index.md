@@ -76,6 +76,7 @@ Students are expected to have had some experience with most of the following con
 
 Since this is a graduate-level course with students from a diverse array of backgrounds (data science, computer science, linguistics, and undergrads), many students will be unfamiliar with one or more of the above topics. This is okay, as long as you feel comfortable looking up anything that you don't understand or asking for help when necessary. 
 
+<!--
 ## Is This the Right Course for Me?
 
 NYU has three natural language processing (NLP) courses at the graduate level:
@@ -89,3 +90,4 @@ DS-GA 1012 (this course) is the only graduate-level NLP course offered this seme
 DS-GA 1012 differs from CSCI-GA 2590 and DS-GA 1011 in its focus on cutting-edge research in the area of language understanding. CSCI-GA 2590 and DS-GA 1011 usually cover similar material, and are dedicated to teaching you the basic techniques of NLP in depth: word embeddings, deep learning, sequence modeling, transfer learning, large language models, and alignment. In DS-GA 1012 we will spend the first half of the semester reviewing these techniques quickly, at a high level. We will skip several topics, such as recurrent architectures, in order to get you caught up to the state of the art as soon as possible. After spring break, we will survey recent NLP research surrounding the question of whether modern language models such as ChatGPT understand the meaning of natural language. Along the way, we will be thinking critically about what "meaning" is, what it means for an AI system to "understand" it, and how to distinguish true intelligence from a complicated bag of tricks.
 
 Many former students of DS-GA 1012 have gone on to take CSCI-GA 2590 or DS-GA 1011, and _vice versa_.
+-->
