@@ -17,5 +17,5 @@ Lab
 
 Reading
 : **D2L**{: .label .label-yellow } [Section 2.5](https://d2l.ai/chapter_preliminaries/autograd.html) and [Chapter 5](https://d2l.ai/chapter_multilayer-perceptrons)
-: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781), the word2vec paper
+: [Turing (1950)](https://doi.org/10.1093/mind/LIX.236.433), on the Imitation Game (Turing Test)
 : [Pennington et al. (2014)](https://nlp.stanford.edu/pubs/glove.pdf), the GloVe paper
