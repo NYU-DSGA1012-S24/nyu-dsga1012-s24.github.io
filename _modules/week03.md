@@ -7,13 +7,13 @@ title: Week 3, Feb. 6/7
 We extend word2vec's distributional method to sequences of words, allowing us to obtain embeddings that represent sentences, paragraphs, and even entire documents. We learn about the BERT model and the Transformer encoder architecture that underlies it. We use the Turing test to evaluate BERT's understanding of natural language.
 
 Lecture
-: Transformers, BERT, transfer learning, foundation models
+: Transformers, transfer learning, foundation models, BERT
 
 Lab
 : Natural language inference with BERT
 
 Reading
-: **Notes**{: .label .label-yellow } Week 3 Handout: Transformers
+: **Notes**{: .label .label-yellow } Week 3 Handout: Transformer Encoders
 : **SLP**{: .label .label-yellow } [Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 : **D2L**{: .label .label-yellow } [Chapter 11](https://d2l.ai/chapter_attention-mechanisms-and-transformers) (skip Sections 11.2, 11.4, and 11.8), [Sections 15.8—15.10](https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html), and [Sections 16.4—16.7](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html) (skip Section 16.5)
 : **LING2**{: .label .label-yellow } [Chapter 11](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_11) and [Chapter 13, #89–90](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_13)
