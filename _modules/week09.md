@@ -4,7 +4,7 @@ title: Week 9, Mar. 26/27
 
 ### Knowledge, Beliefs, and Memorization
 
-TBD
+What does a language model "know" or "believe"? We explore recent attempts to define these concepts and create Turing tests for them. We examine how Transformer language models come to acquire and memorize information, and survey attempts to improve the factuality of language model outputs.
 
 Lecture
 : TBD
