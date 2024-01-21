@@ -2,7 +2,7 @@
 title: Week 6, Feb. 27/28
 ---
 
-### Following Instructions
+### Following Instructions and Being Helpful
 
 We introduce language model alignment, a technique for turning language models into instruction-following assistants like ChatGPT. We learn about reinforcement learning from human feedback (RLHF), the most popular algorithm for alignment. We also explore the intellectual origins of alignment in the Effective Altruism movement.
 
