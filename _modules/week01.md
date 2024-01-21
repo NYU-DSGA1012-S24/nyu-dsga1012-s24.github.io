@@ -16,6 +16,8 @@ Reading
 : **Notes**{: .label .label-yellow } [Week 1 Handout: Lexical Semantics](https://drive.google.com/file/d/1cot4iIwgIrQjC8jGYbhM4SnnHSB2oaRQ/view?usp=drive_link)
 : **SLP**{: .label .label-yellow } [Chapters 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) and [6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 : **D2L**{: .label .label-yellow } [Chapter 2](https://d2l.ai/chapter_preliminaries/index.html) (skip Section 2.5), [Section 4.1](https://d2l.ai/chapter_linear-classification/softmax-regression.html), and [Sections 15.1–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/)
+: **Ling1**{: .label .label-yellow } [Chapter 2](https://link.springer.com/chapter/10.1007/978-3-031-02150-3_2)
+: **Ling2**{: .label .label-yellow } [Chapters 3](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_3) and [4](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_4)
 
 <!--
 Lecture
