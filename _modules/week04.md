@@ -13,7 +13,9 @@ Lab
 : TBD
 
 Reading
-: [McCoy et al. (2019)](https://arxiv.org/abs/1902.01007), on heuristic strategies for NLI
+: [Pfungst (1907/1911)](https://www.gutenberg.org/ebooks/33936), on Clever Hans
+: [Gurungan et al. (2018)](https://aclanthology.org/N18-2017/) and [McCoy et al. (2019)](https://arxiv.org/abs/1902.01007), on gaming the system for NLI
+: [Kocijan et al. (2022)](https://arxiv.org/abs/2201.02387), _The Defeat of the Winograd Schema Challenge_
 : [Rogers et al. (2020)](https://arxiv.org/abs/2002.12327), a survey on what we know about BERT
 : [Hao and Linzen (2023)](https://arxiv.org/abs/2310.15151), on probing and causality 
 : [Jain and Wallace (2019)](https://arxiv.org/abs/1902.10186), [Wiegreffe and Pinter (2019)](https://arxiv.org/abs/1908.04626), and [Belinkov (2022)](https://aclanthology.org/2022.cl-1.7/): critical takes on interpretability techniques and findings

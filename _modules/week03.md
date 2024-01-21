@@ -18,5 +18,4 @@ Reading
 : **D2L**{: .label .label-yellow } [Chapter 11](https://d2l.ai/chapter_attention-mechanisms-and-transformers) (skip Sections 11.2, 11.4, and 11.8), [Sections 15.8—15.10](https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html), and [Sections 16.4—16.7](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-and-dataset.html) (skip Section 16.5)
 : **LING2**{: .label .label-yellow } [Chapter 11](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_11) and [Chapter 13, #89–90](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_13)
 : [Turing (1950)](https://doi.org/10.1093/mind/LIX.236.433), on the imitation game (Turing test)
-: [Bowman et al. (2015)](https://arxiv.org/abs/1508.05326), on NLI and the SNLI benchmark
-: [Wang et al. (2019a)](https://openreview.net/pdf?id=rJ4km2R5t7) and [Wang et al. (2019b)](https://w4ngatang.github.io/static/papers/superglue.pdf), on the [GLUE](https://gluebenchmark.com/) and [SuperGLUE](https://super.gluebenchmark.com/) benchmarks, respectively
+: The [GLUE](https://gluebenchmark.com/) [(Wang et al., 2019a)(https://openreview.net/pdf?id=rJ4km2R5t7) and [SuperGLUE](https://super.gluebenchmark.com/) [(Wang et al., 2019b)](https://w4ngatang.github.io/static/papers/superglue.pdf) benchmarks
