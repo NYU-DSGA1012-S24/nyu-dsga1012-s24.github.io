@@ -13,7 +13,7 @@ Lab
 : TBD
 
 Reading
-: **Notes**{: .label .label-yellow } Week 5 Handout: Transformer Decoders
+: **Notes**{: .label .label-yellow } Week 5 Handout: Transformer Decoders, [Alammar's (2019) tutorial](https://jalammar.github.io/illustrated-gpt2/) on GPT-2, and [Alammar's (2019) tutorial] on GPT-3
 : [The GPT-2 paper (Radford et al., 2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), on language modeling as a general intelligence problem
 : [The GPT-3 paper (Brown et al., 2020)](https://arxiv.org/abs/2005.14165) and [Wei et al. (2022a)](https://arxiv.org/abs/2201.11903), on prompting
 : [Srivastava et al. (2022)](https://arxiv.org/abs/2206.04615) and [Wei et al. (2022b)](https://arxiv.org/abs/2206.07682), on scale and emergent abilities

@@ -10,7 +10,7 @@ The course schedule may be subject to change. All deadlines are on Wednesday at 
 
 The textbooks for this course are:
 
-**Notes**{: .label .label-yellow } Lecture notes by Sophie<br />
+**Tutorial**{: .label .label-yellow } Lecture handouts by Sophie, or tutorials written by AI bloggers<br />
 **SLP**{: .label .label-yellow } [_Speech and Language Processing_](https://web.stanford.edu/~jurafsky/slp3/), 3rd Edition Draft by Dan Jurafsky and James H. Martin<br />
 **D2L**{: .label .label-yellow } [_Dive into Deep Learning_](https://d2l.ai/index.html) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola<br />
 **Ling1**{: .label .label-yellow }
