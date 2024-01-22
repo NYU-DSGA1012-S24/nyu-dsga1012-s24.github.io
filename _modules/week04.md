@@ -13,7 +13,6 @@ Lab
 : TBD
 
 Reading
-: [Pfungst (1907/1911)](https://www.gutenberg.org/ebooks/33936), on Clever Hans
 : [Gurungan et al. (2018)](https://aclanthology.org/N18-2017/) and [McCoy et al. (2019)](https://arxiv.org/abs/1902.01007), on gaming the system for NLI
 : [Kocijan et al. (2022)](https://arxiv.org/abs/2201.02387), _The Defeat of the Winograd Schema Challenge_
 : [Rogers et al. (2020)](https://arxiv.org/abs/2002.12327), a survey on what we know about BERT
