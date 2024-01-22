@@ -10,7 +10,7 @@ Lecture
 : Lexical semantics, the distributional hypothesis, word embeddings, CBOW
 
 Lab
-: Linear analogies, evaluation of embedding spaces
+: Linear analogies, visualization of embedding spaces
 
 Reading
 : **Tutorial**{: .label .label-yellow } [Week 1 Handout](https://drive.google.com/file/d/1cot4iIwgIrQjC8jGYbhM4SnnHSB2oaRQ/view?usp=drive_link) and [Semantle](https://semantle.com/), a word-guessing game based on word2vec embeddings

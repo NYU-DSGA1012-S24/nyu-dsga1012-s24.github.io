@@ -13,7 +13,7 @@ Lab
 : TBD
 
 Reading
-: [Kojima et al. (2022)](https://arxiv.org/abs/2205.11916), [Saparov and He (2023)](https://arxiv.org/abs/2210.01240), and [Saparov et al. (2023)](https://arxiv.org/abs/2305.15269), on multi-hop reasoning via chain-of-thought prompting
+: [Kojima et al. (2022)](https://arxiv.org/abs/2205.11916), [Saparov and He (2023)](https://arxiv.org/abs/2210.01240), [Saparov et al. (2023)](https://arxiv.org/abs/2305.15269), and [Press et al. (2023)](https://arxiv.org/abs/2210.03350), on multi-hop reasoning
 : [Li et al. (2018)](https://arxiv.org/abs/2106.00737) and [Kim and Schuster (2023)](https://arxiv.org/abs/2305.02363), on world models and entity state tracking
 : [Weiss et al. (2021)](https://arxiv.org/abs/2106.06981), [Merrill et al. (2022)](https://arxiv.org/abs/2106.16213), and [Merrill and Sabharwal (2023)](https://arxiv.org/abs/2310.07923), on the computational expressive power of Transformers
 : [Yang et al. (2023)](https://arxiv.org/abs/2306.15626) and [Trinh et al. (2024)](https://www.nature.com/articles/s41586-023-06747-5): enhancing the reasoning capabilities of language models

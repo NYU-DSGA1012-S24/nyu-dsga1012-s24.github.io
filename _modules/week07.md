@@ -13,7 +13,7 @@ Lab
 : TBD
 
 Reading
-: **Notes**{: .label .label-yellow } Week 6 Handout: Reinforcement Learning and Alignment
+: **Tutorial**{: .label .label-yellow } Week 7 Handout
 : [Miles (2014)](https://www.huffpost.com/entry/artificial-intelligence-oxford_n_5689858), an interview with Nick Bostrom on the paperclip problem
 : [Levitz (2022)](https://nymag.com/intelligencer/2022/08/why-effective-altruists-fear-the-ai-apocalypse.html), an interview with Will MacAskill on effective altruism and alignment
 : [Bommasani et al. (2021)](https://arxiv.org/abs/2108.07258), motivating alignment
