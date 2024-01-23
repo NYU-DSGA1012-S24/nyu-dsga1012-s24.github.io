@@ -11,3 +11,6 @@ Lecture
 
 Lab
 : TBD
+
+Reading
+: **Ling1**{: .label .label-yellow } [Chapter 1](https://link.springer.com/chapter/10.1007/978-3-031-02150-3_1)
