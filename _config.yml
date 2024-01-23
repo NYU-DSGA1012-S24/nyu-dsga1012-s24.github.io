@@ -5,8 +5,14 @@ baseurl: '/syllabus'
 url: 'https://nyu-dsga1012-s24.github.io/' 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 nav_external_links:
-  - title: Brightspace (Unused)
+  - title: Brightspace
     url: https://brightspace.nyu.edu/
     hide_icon: false
   - title: Gradescope (Feedback)

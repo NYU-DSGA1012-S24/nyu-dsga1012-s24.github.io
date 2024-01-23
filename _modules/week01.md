@@ -18,6 +18,7 @@ Reading
 : **D2L**{: .label .label-yellow } [Chapter 2](https://d2l.ai/chapter_preliminaries/index.html) (skip Section 2.5), [Section 4.1](https://d2l.ai/chapter_linear-classification/softmax-regression.html), and [Sections 15.1–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/)
 : **Ling1**{: .label .label-yellow } [Chapter 2](https://link.springer.com/chapter/10.1007/978-3-031-02150-3_2)
 : **Ling2**{: .label .label-yellow } [Chapters 3](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_3) and [4](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_4)
+: **EOL**{: .label .label-yellow } [Sections 5.1–5.4](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/part/chapter-5-morphology/) and [4](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_4) and [7.5](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/7-5-lexical-meaning/)
 
 <!--
 Lecture
