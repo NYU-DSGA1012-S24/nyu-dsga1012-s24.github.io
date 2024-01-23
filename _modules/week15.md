@@ -6,5 +6,5 @@ title: Final Exam Period, May 8–14
 
 You will give a talk of no longer than 5 minutes for your final project. More information to come.
 
-Deadlines
-: **Final Paper Due 5/16**{: .label .label-blue }
+<!-- Deadlines
+: **Final Paper Due 5/16**{: .label .label-blue } -->
