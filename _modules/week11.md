@@ -9,6 +9,9 @@ Humans acquire, generate, and process language in a very particular way. We expl
 Lecture
 : Surprisal theory, generalization, inductive bias, poverty of the stimulus, language acquisition
 
+Lab
+: TBD
+
 Reading
 : [Wilcox et al. (2023)](https://doi.org/10.1162/tacl_a_00612), [Oh and Schuler (2023)](https://doi.org/10.1162/tacl_a_00548), and [Huang et al. (2023)](https://osf.io/preprints/psyarxiv/z38u6), on surprisal theory
 : [Hupkes et al. (2020)](https://arxiv.org/abs/1908.08351), [Kim and Linzen (2020)](https://arxiv.org/abs/2010.05465), and [Kim et al. (2022)](https://arxiv.org/abs/2212.10769), on compositionality
