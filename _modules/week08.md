@@ -13,4 +13,7 @@ Lab
 : TBD
 
 Reading
+: **Tutorial**{: .label .label-yellow } [David R. Mortensen's slides](http://demo.clab.cs.cmu.edu/algo4nlp20/slides/low-resource-nlp.pdf) on low-resource NLP
 : **Ling1**{: .label .label-yellow } [Chapter 1](https://link.springer.com/chapter/10.1007/978-3-031-02150-3_1)
+: **EOL**{: .label .label-yellow } [Chapters 1](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/part/chapter-1-language-science/), [2](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/part/chapter-2-language-power-privilege/), [6](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/part/chapter-6-syntax/), and [14](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/part/chapter-14-historical-linguistics/)
+: [Hobsbawn (1996)](https://www.jstor.org/stable/40971324) on language and nationalism; [Davis (2000)](https://web.p.ebscohost.com/ehost/ebookviewer/ebook?sid=3cb9b680-233a-4004-a4ca-238f4a99401d%40redis&vid=0&format=EB), Introduction and Chapter 8, on the creation of Italy and the Italian language
