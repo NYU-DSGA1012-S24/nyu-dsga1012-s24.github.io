@@ -10,7 +10,7 @@ seo:
 
 # Natural Language Understanding and Computational Semantics
 
-**DS-GA 1012/LING-GA 1012, Spring 2024**<br />
+**DS-GA 1012, Spring 2024**<br />
 **New York University**
 
 Since at least the proposal of the Turing test, building computational systems that can communicate with humans using natural language has been a central goal for Al research. Understanding real, naturally occurring human language is the key to reaching this goal. This course surveys recent successes in language understanding and prepares students to do original research in this area, culminating with a substantial final project. 
