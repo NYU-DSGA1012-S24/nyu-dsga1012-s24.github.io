@@ -8,6 +8,7 @@ We introduce the concept of meaning in natural language, taking inspiration from
 
 Lecture
 : Lexical semantics, the distributional hypothesis, word embeddings, CBOW
+: [Slides](https://drive.google.com/file/d/1nRA5sDUjucBnu07Eg6aQAwK4YjMyWVKn/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/lDzULVz66gSVYanqHP3jELiV72OuIkM1BQTpclLvDClC33OChQHkNFOkjhd7ou3q.Yu0VlSkEsEWyjIKX)
 
 Lab
 : Linear analogies, visualization of embedding spaces
