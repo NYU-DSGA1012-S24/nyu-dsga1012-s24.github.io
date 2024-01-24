@@ -12,7 +12,7 @@ whitelist:
   - jekyll-redirect-from
 
 nav_external_links:
-  - title: Brightspace
+  - title: Brightspace (Announcements)
     url: https://brightspace.nyu.edu/
     hide_icon: false
   - title: Gradescope (Feedback)
