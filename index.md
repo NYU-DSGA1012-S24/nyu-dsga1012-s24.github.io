@@ -8,6 +8,7 @@ seo:
   name: Just the Class
 redirect_from:
   - /syllabus
+  - /syllabus/
 ---
 
 # Natural Language Understanding and Computational Semantics
