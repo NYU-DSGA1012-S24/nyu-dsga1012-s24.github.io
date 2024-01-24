@@ -2,6 +2,7 @@
 title: Schedule and Readings
 layout: default
 nav_order: 4
+permalink: /schedule
 ---
 
 # Schedule and Readings

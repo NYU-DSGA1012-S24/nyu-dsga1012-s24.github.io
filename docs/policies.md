@@ -2,6 +2,7 @@
 title: Course Policies 
 layout: default 
 nav_order: 3
+permalink: /policies
 ---
 
 # Course Policies

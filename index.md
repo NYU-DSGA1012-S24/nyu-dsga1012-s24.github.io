@@ -6,6 +6,8 @@ permalink: /:path/
 seo:
   type: Course
   name: Just the Class
+redirect_from:
+  - /syllabus
 ---
 
 # Natural Language Understanding and Computational Semantics

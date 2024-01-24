@@ -2,6 +2,7 @@
 title: Coursework and Grading 
 layout: default 
 nav_order: 2
+permalink: /coursework
 ---
 
 # Coursework and Grading
