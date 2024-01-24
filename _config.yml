@@ -1,7 +1,7 @@
 title: NLU/CompSem
 description: The syllabus for the course Natural Language Understanding and Computational Semantics (DS-GA/LING-GA 1012) at New York University
 author: Sophie Hao
-baseurl: '/syllabus'
+baseurl: '/'
 url: 'https://nyu-dsga1012-s24.github.io/' 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
