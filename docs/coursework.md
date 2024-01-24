@@ -26,10 +26,10 @@ The composition of your final grade is as follows.
 ## Submissions and Deadlines
 
 Unless otherwise stated, all submission deadlines are on **Wednesdays at 9:30 AM**.[^1] Each coursework item will be
-released on [Brightspace](https://brightspace.nyu.edu/d2l/home/244031), and submissions and grading will take place
+released on [Brightspace](https://brightspace.nyu.edu), and submissions and grading will take place
 on [Gradescope](https://www.gradescope.com/) (which you can access through Brightspace). Materials and further
 instructions for coursework items may occasionally be released on
-[GitHub](https://github.com/NYU-DSGA1012-S23); please see Brightspace for details specific to each assignment.
+[GitHub](https://github.com/NYU-DSGA1012-S24); please see Brightspace for details specific to each assignment.
 
 #### Late Submissions
 
@@ -64,11 +64,11 @@ will work on it in groups of three or four.
 
 | Item                  | Due Date              | Points  | % of Final Grade | 
 |-----------------------|-----------------------|---------|------------------|
-| Project Mini-Proposal | March 8               | 50      | 5%               |
-| Full Project Proposal | April 5               | 100     | 10%              |
-| Final Paper Draft     | April 26              | 100     | 10%              |
-| Final Paper           | May 12 (12:00 PM)     | 200     | 20%              |
-| In-Class Presentation | May 12 (8:00–9:50 AM) | 50      | 5%               |
+| Project Mini-Proposal | TBD                   | 50      | 5%               |
+| Full Project Proposal | TBD                   | 100     | 10%              |
+| Final Paper Draft     | TBD                   | 100     | 10%              |
+| Final Paper           | TBD                   | 200     | 20%              |
+| In-Class Presentation | TBD                   | 50      | 5%               |
 | **Total**             |                       | **500** | **50%**          |
 
 ## Homework Assignments
@@ -92,18 +92,17 @@ Your total homework grade for the semester is calculated out of 300 points, subj
 
 | Item                                          | Due Date    | Points  | % of Final Grade |
 |-----------------------------------------------|-------------|---------|------------------|
-| HW 0: Sign Up for Course Sites                | February 1  | 0       | 0%               |
-| HW 1: Intrinsic Evaluation of Word Embeddings | February 8  | 100     | 10%              |
-| HW 2: Text Classification Using LSTMs         | February 27 | 100     | 10%              |
-| HW 3: The 🤗 Transformers Framework           | March 29     | 100     | 10%              |
-| EC 1: NumPy Exercises                         | February 8  | 25 EC   | 2.5% EC          |
-| EC 2: PyTorch Exercises                       | February 27     | 25 EC   | 2.5% EC          |
+| HW 0: Sign Up for Course Sites                | ASAP        | 0       | 0%               |
+| HW 1: Intrinsic Evaluation of Word Embeddings | February 7  | 100     | 10%              |
+| HW 2: TBD                                     | TBD         | 100     | 10%              |
+| HW 3: TBD                                     | TBD         | 100     | 10%              |
+| EC 1: NumPy Exercises                         | February 7  | 25 EC   | 2.5% EC          |
+| EC 2: PyTorch Exercises                       | TBD         | 25 EC   | 2.5% EC          |
 | **Total**                                     |             | **300** | **30%**          |
 
 ## Reading Quizzes
 
-You will occasionally be assigned short quizzes that are administered and autograded online on 
-[Brightspace](https://brightspace.nyu.edu/d2l/home/244031).
+You will occasionally be assigned short quizzes that are administered and autograded online on Gradescope.
 
 ## Participation
 
