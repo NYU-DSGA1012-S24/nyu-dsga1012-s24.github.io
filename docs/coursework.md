@@ -87,8 +87,6 @@ Your total homework grade for the semester is calculated out of 300 points, subj
   point value including extra credit, then you will simply receive the maximum possible grade.
 * You cannot receive a negative grade for HW 1, HW 2, HW 3, EC 1, or EC 2. Blank or missing submissions will receive 
   a grade of 0, and any assignment with a negative score due to late penalties will receive a grade of 0.
-* HW 0 is worth 0 points, **but it is subject to a late penalty of 1 point per day**. The minimum possible grade for 
-  HW 0 is −10.
 
 | Item                                          | Due Date    | Points  | % of Final Grade |
 |-----------------------------------------------|-------------|---------|------------------|
