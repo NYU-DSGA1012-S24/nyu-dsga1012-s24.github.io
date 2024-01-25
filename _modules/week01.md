@@ -12,6 +12,7 @@ Lecture
 
 Lab
 : Linear analogies, visualization of embedding spaces
+: [Colab Notebook](https://colab.research.google.com/drive/1LeMKieZBHoIIkxJST-2vej5awagjIKqy?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/c3PitWQL_xfT1rumVrAc7r2C96waxHp6u3kVbJubD_5dBFO7Un6IgG7u0o6pVkfj.2yjKY1pcC-p2hCy5)
 
 Reading
 : **Tutorial**{: .label .label-yellow } [Week 1 Handout](https://drive.google.com/file/d/1cot4iIwgIrQjC8jGYbhM4SnnHSB2oaRQ/view?usp=drive_link) and [Semantle](https://semantle.com/), a word-guessing game based on word2vec embeddings
