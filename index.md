@@ -1,11 +1,12 @@
 ---
-layout: home
 title: Basic Information 
+layout: home
+has_children: true
 nav_order: 1
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Natural Language Understanding and Computational Semantics
 redirect_from:
   - /syllabus
   - /syllabus/
@@ -22,18 +23,18 @@ Since at least the proposal of the Turing test, building computational systems t
 
 #### Instructor
 
-* Sophie Hao **she/her**{: .label } (NYU email: `sophie.hao`)
+* Sophie Hao <span>she/her</span>{:.label} (NYU email: `sophie.hao`)
 
 #### Section Leaders
 
-* Cara Leong **she/her**{: .label } (NYU email: `caraleong`)
-* Jackson Petty **he/him**{: .label } (NYU email: `jp6664`)
+* Cara Leong <span>she/her</span>{:.label} (NYU email: `caraleong`)
+* Jackson Petty <span>he/him</span>{:.label} (NYU email: `jp6664`)
 
 #### Graders
 
-* Anisha Bhatnagar **she/her**{: .label } (NYU email: `ab10945`)
-* Manoj Middepogu **he/him**{: .label } (NYU email: `mm12799`) 
-* Nori Naka **he/him**{: .label } (NYU email: `nn1331`) 
+* Anisha Bhatnagar <span>she/her</span>{:.label} (NYU email: `ab10945`)
+* Manoj Middepogu <span>he/him</span>{:.label} (NYU email: `mm12799`) 
+* Nori Naka <span>he/him</span>{:.label} (NYU email: `nn1331`) 
 
 ## Logistics
 

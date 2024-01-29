@@ -12,17 +12,17 @@ whitelist:
   - jekyll-redirect-from
 
 nav_external_links:
-  - title: Brightspace (Announcements)
-    url: https://brightspace.nyu.edu/
-    hide_icon: false
-  - title: Gradescope (Feedback)
-    url: https://www.gradescope.com/
-    hide_icon: false
-  - title: Campuswire (Discussion)
+  - title: Campuswire 
     url: https://campuswire.com/c/GE05961C3
     hide_icon: false
-  - title: GitHub (Assignments)
+  - title: Gradescope 
+    url: https://www.gradescope.com/
+    hide_icon: false
+  - title: GitHub
     url: https://github.com/nyu-dsga1012-s24
+    hide_icon: false
+  - title: Brightspace
+    url: https://brightspace.nyu.edu/
     hide_icon: false
 
 
