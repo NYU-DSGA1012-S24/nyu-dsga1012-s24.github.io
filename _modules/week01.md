@@ -21,13 +21,3 @@ Reading
 : **Ling1**{: .label .label-yellow } [Chapter 2](https://link.springer.com/chapter/10.1007/978-3-031-02150-3_2)
 : **Ling2**{: .label .label-yellow } [Chapters 3](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_3) and [4](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_4)
 : **EOL**{: .label .label-yellow } [Sections 5.1–5.4](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/part/chapter-5-morphology/) and [4](https://link.springer.com/chapter/10.1007/978-3-031-02172-5_4) and [7.5](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/7-5-lexical-meaning/)
-
-<!--
-Lecture
-: [Slides](https://drive.google.com/file/d/1w6hHItHkn3R7QI1AiN9500J5cSRdOCTT/view?usp=share_link), 
-[Zoom Recording](https://nyu.zoom.us/rec/share/6CGMe6KzGdXMsh2vN0_0o8pAi3inExMjoA38xgWQEI8RYR1BdEKzGrnu9hnxFk8S.HQiIXcuZe6JCU0th?startTime=1674572102000)
-
-Lab
-: [Colab Notebook](https://colab.research.google.com/drive/1ehOgBO1iqIITO5T1w5SN5ExhPPs-nSrR?usp=sharing),
-[Zoom Recording](https://nyu.zoom.us/rec/share/uoPqYrtBEgIO8ihJqpaat0xKCCGJ2yHYqVJw5ayYDsZFxdthEpfWzog2_Gxbcur-.77NL8dp_0H7QQl-L)
--->
