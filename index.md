@@ -1,7 +1,6 @@
 ---
 title: Basic Information 
 layout: home
-has_children: true
 nav_order: 1
 permalink: /:path/
 seo:

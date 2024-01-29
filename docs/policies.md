@@ -1,9 +1,8 @@
 ---
 title: Course Policies 
-parent: Basic Information
 layout: default 
 permalink: /policies
-nav_order: 1
+nav_order: 2
 ---
 
 # Course Policies
