@@ -17,3 +17,6 @@ Reading
 : [ACL 2024](https://2024.aclweb.org/calls/main_conference_papers/) and [ACL Rolling Review (ARR)](https://aclrollingreview.org/cfp) call for papers
 : [Resnik and Lin (2010)](https://onlinelibrary.wiley.com/doi/10.1002/9781444324044.ch11), [Dror et al. (2018)](https://aclanthology.org/P18-1128/) and [Ulmer et al. (2022)](https://arxiv.org/abs/2204.06251), on NLP experimental methods
 : Other papers to be added (examples of NLP project types)
+
+Dates
+: <span>HW 2 Due</span>{:.label.label-red} <span>EC 2 Due</span>{:.label.label-red} 

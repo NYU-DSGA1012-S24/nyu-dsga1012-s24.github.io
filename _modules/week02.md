@@ -17,5 +17,5 @@ Reading
 : **SLP**{: .label .label-yellow } [Chapter 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 : **D2L**{: .label .label-yellow } [Chapter 1](https://d2l.ai/chapter_introduction), [Section 2.5](https://d2l.ai/chapter_preliminaries/autograd.html), [Chapter 5](https://d2l.ai/chapter_multilayer-perceptrons), [Chapter 12](https://d2l.ai/chapter_optimization/) (skip Sections 12.7–12.9), [Section 16.1](https://d2l.ai/chapter_natural-language-processing-applications/index.html), and [Section 19.1](https://d2l.ai/chapter_hyperparameter-optimization) (the rest of the chapter is optional)
 
-Deadlines
-: HW 0 Due {: .label .label-red }
+Dates
+: <span>HW 1 Released Mon 1/29</span>{:.label.label-green} <span>EC 1 Released Mon 1/29</span>{:.label.label-green} <span>RQ 1 Released Fri 2/2</span>{:.label.label-green}

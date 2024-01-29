@@ -17,3 +17,6 @@ Reading
 : [Hupkes et al. (2020)](https://arxiv.org/abs/1908.08351), [Kim and Linzen (2020)](https://arxiv.org/abs/2010.05465), and [Kim et al. (2022)](https://arxiv.org/abs/2212.10769), on compositionality
 : [Mueller et al. (2022)](https://arxiv.org/abs/2203.09397) and [Mueller et al. (2023)](https://arxiv.org/abs/2305.19905), on hierarchical generalization
 : [Linzen (2020)](https://arxiv.org/abs/2005.00955), [Yedetore et al. (2023)](https://arxiv.org/abs/2301.11462) and [Warstadt et al. (2023)](https://aclanthology.org/volumes/2023.conll-babylm/), on pre-training vs. human language acquisition
+
+Dates
+: <span>RQ 5 Released Fri 4/12</span>{:.label.label-green}

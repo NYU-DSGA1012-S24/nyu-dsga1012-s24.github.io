@@ -18,3 +18,6 @@ Reading
 : [Bommasani et al. (2021)](https://arxiv.org/abs/2108.07258), motivating alignment
 : [Askell et al. (2021)](https://arxiv.org/abs/2112.00861), on alignment and the HHH criteria
 : [The InstructGPT paper (Ouyang et al., 2022)](https://arxiv.org/abs/2203.02155) on RLHF and [Rafailov et al. (2023)](https://arxiv.org/abs/2305.18290) on direct preference optimization (DPO)
+
+Dates
+: <span>HW 3 Due</span>{:.label.label-red} 

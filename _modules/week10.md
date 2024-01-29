@@ -17,3 +17,6 @@ Reading
 : [Li et al. (2018)](https://arxiv.org/abs/2106.00737) and [Kim and Schuster (2023)](https://arxiv.org/abs/2305.02363), on world models and entity state tracking
 : [Weiss et al. (2021)](https://arxiv.org/abs/2106.06981), [Merrill et al. (2022)](https://arxiv.org/abs/2106.16213), and [Merrill and Sabharwal (2023)](https://arxiv.org/abs/2310.07923), on the computational expressive power of Transformers
 : [Yang et al. (2023)](https://arxiv.org/abs/2306.15626) and [Trinh et al. (2024)](https://www.nature.com/articles/s41586-023-06747-5): enhancing the reasoning capabilities of language models
+
+Dates
+: <span>Project Full Proposal Due</span>{:.label.label-red}

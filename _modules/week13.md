@@ -17,3 +17,6 @@ Reading
 : [Strubell et al. (2019)](https://aclanthology.org/P19-1355/) and [Kang et al. (2023)](https://arxiv.org/abs/2305.01645), on efficiency and energy usage
 : [Blodgett et al. (2020)](https://arxiv.org/abs/2005.14050), [Stanczak and Augenstein (2021)](https://arxiv.org/abs/2112.14168), and [Pessach and Shmueli (2022)](https://dl.acm.org/doi/10.1145/3494672), on bias and fairness
 : [Karamolegkou et al. (2023)](https://arxiv.org/abs/2310.13771), on copyright
+
+Dates
+: <span>Pass/Fail Deadline Tues 4/23</span>{:.label.label-purple} <span>Withdrawal Deadline Tues 4/23</span>{:.label.label-purple} <span>Final Paper Draft Due</span>{:.label.label-red} <span>RQ 6 Released Fri 4/26</span>{:.label.label-green}

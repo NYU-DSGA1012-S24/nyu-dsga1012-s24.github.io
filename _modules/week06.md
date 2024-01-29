@@ -18,3 +18,6 @@ Reading
 : [The GPT-3 paper (Brown et al., 2020)](https://arxiv.org/abs/2005.14165) and [Wei et al. (2022a)](https://arxiv.org/abs/2201.11903), on prompting
 : [Srivastava et al. (2022)](https://arxiv.org/abs/2206.04615) and [Wei et al. (2022b)](https://arxiv.org/abs/2206.07682), on scale and emergent abilities
 : [Lin et al. (2022)](https://arxiv.org/abs/2109.07958), [McKenzie et al. (2023)](https://arxiv.org/abs/2306.09479), and [Wei et al. (2023)](https://arxiv.org/abs/2211.02011), on inverse scaling
+
+Dates
+: <span>HW 3 Released Mon 2/26</span>{:.label.label-green} <span>RQ 3 Released Fri 3/1</span>{:.label.label-green}
