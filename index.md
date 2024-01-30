@@ -27,7 +27,7 @@ Since at least the proposal of the Turing test, building computational systems t
 #### Section Leaders
 
 * Cara Leong <span>she/her</span>{:.label} (NYU email: `caraleong`)
-* Jackson Petty <span>he/him</span>{:.label} (NYU email: `jp6664`)
+* Jackson Petty <span>he/him</span>{:.label} (NYU email: `petty`)
 
 #### Graders
 
