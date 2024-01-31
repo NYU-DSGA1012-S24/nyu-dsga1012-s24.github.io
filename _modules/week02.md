@@ -8,7 +8,7 @@ We learn how to optimize an arbitrary machine learning objective using the stoch
 
 Lecture
 : SGD, Adam, automatic differentiation, PyTorch, neural networks, multi-layer perceptrons
-: [Slides](https://drive.google.com/file/d/186uSCNXPQZu8Tfw3CFjCmRem-Nl9mQS8/view?usp=sharing), [Extra Slides](https://drive.google.com/file/d/1xe2Wja52hLjBMkJ-3DCEsteN7mTYt2eX/view?usp=sharing) (that we didn't get to in class)
+: [Slides](https://drive.google.com/file/d/186uSCNXPQZu8Tfw3CFjCmRem-Nl9mQS8/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/GhAaZOIK06_Bgyvg3vwkkSxmEHd8MzP40FjeiruQNDD08zkBrhCgjQvC61BHKFQ0.caOQ9Y-4pp9mGi7O), [Extra Slides](https://drive.google.com/file/d/1xe2Wja52hLjBMkJ-3DCEsteN7mTYt2eX/view?usp=sharing) (that we didn't get to in class)
 
 Lab
 : Sentiment classification using a multi-layer perceptron
