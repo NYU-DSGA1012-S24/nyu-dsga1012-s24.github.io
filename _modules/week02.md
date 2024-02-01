@@ -12,6 +12,7 @@ Lecture
 
 Lab
 : Sentiment classification using a multi-layer perceptron
+: [Colab Notebook](https://colab.research.google.com/drive/1lM-1h3IRmjUWZlj3-xYlsQoSq0vMTcht?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/So7fPUREUzGTaZy90XIDhQY1dP-KD1So4Pe2ekNRUd3EzIAhuzV1O2DrynUT8Y1x.DoBO7zNhLIlO16y4)
 
 Reading
 : **Tutorial**{: .label .label-yellow } Week 2 Handout (to be released), [Olah's (2015)](https://colah.github.io/posts/2015-08-Backprop/) tutorial on backpropagation, and [Sanderson's (2017)](https://www.3blue1brown.com/topics/neural-networks) video series on deep learning (optional)
