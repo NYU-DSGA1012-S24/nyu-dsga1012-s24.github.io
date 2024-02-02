@@ -54,7 +54,7 @@ Room 102, [19 University Place](https://maps.app.goo.gl/gZFoDtF17dD4VAH97) and o
 Tuesdays, 4:00 PM–5:00 PM, with Jackson<br />
 Room 507, [Arthur L. Carter Hall (10 Washington Place)](https://maps.app.goo.gl/AUKATEnYwBccmE4v8)
 
-Wednesdays, 5:00 PM–6:00 PM, with Cara<br />
+Wednesdays, 4:00 PM–5:00 PM, with Cara<br />
 Room 307, [Arthur L. Carter Hall (10 Washington Place)](https://maps.app.goo.gl/AUKATEnYwBccmE4v8)
 
 Fridays, 11:00 AM–12:00 PM, with Sophie<br />
