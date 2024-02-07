@@ -8,6 +8,7 @@ We extend word2vec's distributional method to sequences of words, allowing us to
 
 Lecture
 : Transformers, transfer learning, foundation models, BERT
+: [Slides](https://drive.google.com/file/d/1yNUjiCVeV7LSbEPcznOhD3_xcVJr01-I/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/DPl0NDJDcetS1oE9u1w1Cl7n0uQpWIIs2-9gylDlUw4OZ3NpUTmowZ2_xyhimaLs.1Z7lB38C0uHQP4FB)
 
 Lab
 : Natural language inference with BERT
