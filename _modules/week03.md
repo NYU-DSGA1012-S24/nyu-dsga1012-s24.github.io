@@ -12,6 +12,7 @@ Lecture
 
 Lab
 : Natural language inference with BERT
+: [Colab Notebook](https://drive.google.com/file/d/19c5gm7NMUrAfy0sQg7Vt9eccQer1lXDn/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/r0mK3vwyrrY3WZZkr1OGDKmq4cxTrF3q5510_B6zL4aRuQSl0YpxxrnJ60ee0_ep.qJeUUB3D0yA-QJVW)
 
 Reading
 : **Tutorial**{:.label.label-yellow} [Alammar's (2018a)](https://jalammar.github.io/illustrated-transformer/) tutorial on Transformers, and [Alammar's (2018b)](https://jalammar.github.io/illustrated-bert/) tutorial on BERT
