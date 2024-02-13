@@ -23,4 +23,4 @@ Reading
 : The [GLUE](https://gluebenchmark.com/) [(Wang et al., 2019a)](https://openreview.net/pdf?id=rJ4km2R5t7) and [SuperGLUE](https://super.gluebenchmark.com/) [(Wang et al., 2019b)](https://w4ngatang.github.io/static/papers/superglue.pdf) benchmarks
 
 Dates
-: <span>Add/Drop Deadline Sun 2/4</span>{:.label.label-purple} <span>HW 1 Due</span>{:.label.label-red} <span>EC 1 Due</span>{:.label.label-red} 
+: <span>Add/Drop Deadline Sun 2/4</span>{:.label.label-purple} <span>HW 1 Due Sat 2/10</span>{:.label.label-red} <span>EC 1 Due Sat 2/10</span>{:.label.label-red} 

@@ -19,4 +19,4 @@ Reading
 : Other papers to be added (examples of NLP project types)
 
 Dates
-: <span>HW 2 Due</span>{:.label.label-red} <span>EC 2 Due</span>{:.label.label-red} 
+: <span>HW 2 Due Sat 2/24</span>{:.label.label-red} <span>EC 2 Due Sat 2/24</span>{:.label.label-red} 

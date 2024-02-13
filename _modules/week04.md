@@ -20,4 +20,4 @@ Reading
 : [Jain and Wallace (2019)](https://arxiv.org/abs/1902.10186), [Wiegreffe and Pinter (2019)](https://arxiv.org/abs/1908.04626), and [Belinkov (2022)](https://aclanthology.org/2022.cl-1.7/): critical takes on interpretability techniques and findings
 
 Dates
-: <span>HW 2 Released Mon 2/12</span>{:.label.label-green} <span>EC 2 Released Mon 2/12</span>{:.label.label-green} <span>RQ 2 Released Fri 2/16</span>{:.label.label-green}
+: <span>HW 2 Released Mon 2/12</span>{:.label.label-green} <span>EC 2 Released Tues 2/13</span>{:.label.label-green} <span>RQ 2 Released Fri 2/16</span>{:.label.label-green}
