@@ -8,6 +8,7 @@ BERT's ability to identify relationships between sentences is impressive. How do
 
 Lecture
 : Interpretability and model analysis, targeted challenge benchmarks, attention visualization, probing
+: [Slides](https://drive.google.com/file/d/1fowXllN9h5zzgn8Ck_E3xUauVCnmwo_3/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/gcfLVN3oWW7qNx47sn-8tT_x92HhX0TDVaJYajlB88SfognNg6viyyJekFXYTlxy.l6ZzGedDo_F_pJzu), [Extra Slides](https://drive.google.com/file/d/1mAwY0ZFMXJCSaR_o1a7U5Uq4WzmhQyxK/view?usp=drive_link) (that we didn't get to in class)
 
 Lab
 : TBD
