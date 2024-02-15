@@ -75,15 +75,15 @@ Your total homework grade for the semester is calculated out of 300 points, subj
 * Your grade for each assignment cannot exceed the point value shown below. If you have earned more than the total point value including extra credit, then you will simply receive the maximum possible grade.
 * You cannot receive a negative grade. Blank or missing submissions will receive a grade of 0, and any assignment with a negative score due to late penalties will receive a grade of 0.
 
-| Item                                          | Due Date    | Points  | % of Final Grade |
-|-----------------------------------------------|-------------|---------|------------------|
-| HW 0: Sign Up for Course Sites                | ASAP        | 0       | 0%               |
-| HW 1: Intrinsic Evaluation of Word Embeddings | February 7  | 100     | 10%              |
-| HW 2: TBD                                     | February 21 | 100     | 10%              |
-| HW 3: TBD                                     | March 6     | 100     | 10%              |
-| EC 1: NumPy Exercises                         | February 7  | 25 EC   | 2.5% EC          |
-| EC 2: PyTorch Exercises                       | February 21 | 25 EC   | 2.5% EC          |
-| **Total**                                     |             | **300** | **30%**          |
+| Item                                           | Due Date    | Points  | % of Final Grade |
+|------------------------------------------------|-------------|---------|------------------|
+| HW 0: Sign Up for Course Sites                 | ASAP        | 0       | 0%               |
+| HW 1: Intrinsic Evaluation of Word Embeddings  | February 7  | 100     | 10%              |
+| HW 2: Efficient Fine-Tuning with BitFit?       | February 24 | 100     | 10%              |
+| HW 3: TBD                                      | March 6     | 100     | 10%              |
+| EC 1: NumPy Exercises                          | February 7  | 25 EC   | 2.5% EC          |
+| EC 2: PyTorch Exercises                        | February 21 | 25 EC   | 2.5% EC          |
+| **Total**                                      |             | **300** | **30%**          |
 
 ## Reading Quizzes
 
