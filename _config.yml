@@ -37,6 +37,7 @@ footer_content:
 
 # Collections for website data
 collections:
+  modules:
   assignments:
     permalink: "/:collection/:path"
     output: true
