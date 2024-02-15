@@ -1,9 +1,8 @@
 ---
-title: Assignments
+title: Coursework Overview
 layout: default 
-has_children: true
-nav_order: 4
-permalink: /assignments
+nav_order: 3
+permalink: /coursework
 ---
 
 # Coursework Overview

@@ -37,14 +37,21 @@ footer_content:
 
 # Collections for website data
 collections:
+  assignments:
+    permalink: "/:collection/:path"
+    output: true
   solutions:
     permalink: "/:collection/:path"
     output: true
 
 just_the_docs:
   collections:
+    assignments:
+      name: Assignments
+      nav_fold: true
     solutions:
       name: Solutions
+      nav_fold: true
 
 # Default layouts for each collection type
 defaults:
