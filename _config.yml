@@ -41,6 +41,11 @@ collections:
     permalink: "/:collection/:path"
     output: true
 
+just_the_docs:
+  collections:
+    solutions:
+      name: Solutions
+
 # Default layouts for each collection type
 defaults:
   - scope:
