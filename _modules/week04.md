@@ -11,7 +11,7 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1fowXllN9h5zzgn8Ck_E3xUauVCnmwo_3/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/gcfLVN3oWW7qNx47sn-8tT_x92HhX0TDVaJYajlB88SfognNg6viyyJekFXYTlxy.l6ZzGedDo_F_pJzu), [Extra Slides](https://drive.google.com/file/d/1mAwY0ZFMXJCSaR_o1a7U5Uq4WzmhQyxK/view?usp=drive_link) (that we didn't get to in class)
 
 Lab
-: TBD
+: [Slides](https://docs.google.com/presentation/d/1Dc-x9SvVy8ERZjsAdIKpMyXpMBUnyFqKCHDvoiPCWKw/edit)
 
 Reading
 : [Gurungan et al. (2018)](https://aclanthology.org/N18-2017/) and [McCoy et al. (2019)](https://arxiv.org/abs/1902.01007), on gaming the system for NLI
