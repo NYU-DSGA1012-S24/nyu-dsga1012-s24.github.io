@@ -11,7 +11,7 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1IXvfw7auti35bDl0oQ5EAqodgBdFxZzJ/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/jc5TLTUupL35ziXJtsarU5uDULQ6ZwR5FQXZXZKREdkvGFPe3wTI8wQcPXc6XqD8.mVFEh_OVEdg9cqP_)
 
 Lab
-: [Slides](https://docs.google.com/presentation/d/1ondkpOD3E6C3aG8NqNVnT1L6mIOibXyVbwIfpjoZQhw/edit?usp=sharing) [Zoom Recording from Last Year](https://nyu.zoom.us/rec/share/bhBLBV7YBV1ZkKkTbQCFyIyGGrsPVMX_0elHSDqZjcoj-OPFow0C0F9o1003QVbt.9GLcbzuof6KHFCYR) (Unfortunately, we forgot to record this lab!)
+: [Slides](https://docs.google.com/presentation/d/1ondkpOD3E6C3aG8NqNVnT1L6mIOibXyVbwIfpjoZQhw/edit?usp=sharing), [Zoom Recording from Last Year](https://nyu.zoom.us/rec/share/bhBLBV7YBV1ZkKkTbQCFyIyGGrsPVMX_0elHSDqZjcoj-OPFow0C0F9o1003QVbt.9GLcbzuof6KHFCYR) (Unfortunately, we forgot to record this lab!)
 
 Reading
 : **Tutorial**{: .label .label-yellow } Lectures from Sam Bowman ([slides](https://drive.google.com/file/d/1xg2dDEjG-5Z92QZQIqzrjDkEla5ocCU-/view)), Chris Potts ([slides](https://web.stanford.edu/class/cs224u/slides/cs224u-methods-2023-handout.pdf)), and Graham Neubig ([slides](https://phontron.com/class/anlp2021/assets/slides/anlp-13-experimentation.pdf) and [video](https://www.youtube.com/watch?v=jb46q2ltFcs)); [Ribeiro's (2022)](https://medium.com/@marcotcr/organizing-and-evaluating-research-ideas-e137637b599e) tutorial on brainstorming

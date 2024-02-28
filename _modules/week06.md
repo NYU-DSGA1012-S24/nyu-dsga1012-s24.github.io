@@ -8,6 +8,7 @@ Language modeling—the task of predicting what word comes after a string of tex
 
 Lecture
 : Large language models, prompting and few-shot learning, scaling and inverse scaling
+: [Slides](https://drive.google.com/file/d/1BuaERVA1dxFDfdh5NrVEsdA-SOaTiIwj/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/iG3hWGqWm2y8t-BkRY0ybCidKHrDPhSdrM0P29YFi462bY29wF4hjiGfnzWkxQ.K1tJLRBROAdUbDuy) 
 
 Lab
 : TBD
