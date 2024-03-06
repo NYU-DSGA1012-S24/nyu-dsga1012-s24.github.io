@@ -12,6 +12,7 @@ Lecture
 
 Lab
 : Mini-proposal requirements and peer review
+: [Slides](https://drive.google.com/file/d/1X6crhWDiSPBLNJ1wKqGFv4_lSsOwWSwA/view?usp=sharing)
 
 Reading
 : **Tutorial**{: .label .label-yellow } Week 7 Handout (to be released)
