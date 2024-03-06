@@ -21,4 +21,4 @@ Reading
 : [The InstructGPT paper (Ouyang et al., 2022)](https://arxiv.org/abs/2203.02155) on RLHF and [Rafailov et al. (2023)](https://arxiv.org/abs/2305.18290) on direct preference optimization (DPO)
 
 Dates
-: <span>HW 3 Due</span>{:.label.label-red} 
+: <span>HW 3 Released Mon 3/5</span>{:.label.label-green} 

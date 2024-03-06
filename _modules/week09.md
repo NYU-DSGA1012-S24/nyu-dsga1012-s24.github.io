@@ -18,3 +18,6 @@ Reading
 : [Roberts et al. (2020)](https://arxiv.org/abs/2002.08910) and [Dai et al. (2021)](https://arxiv.org/abs/2104.08696): how Transformers store knowledge
 : [Lewis et al. (2020)](https://arxiv.org/abs/2008.02637) and [McCoy et al. (2021)](https://arxiv.org/abs/2111.09509), on memorization
 : [Tian et al. (2023)](https://arxiv.org/abs/2311.08401), [Yu et al. (2023)](https://arxiv.org/abs/2305.14002), [Vu et al. (2023)](https://arxiv.org/abs/2310.03214), and [Du et al. (2023)](https://arxiv.org/abs/2305.14325): improving factuality in LLMs
+
+Dates
+: <span>HW 3 Due</span>{:.label.label-red} 

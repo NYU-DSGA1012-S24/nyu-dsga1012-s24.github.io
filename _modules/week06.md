@@ -22,4 +22,4 @@ Reading
 : [Lin et al. (2022)](https://arxiv.org/abs/2109.07958), [McKenzie et al. (2023)](https://arxiv.org/abs/2306.09479), and [Wei et al. (2023)](https://arxiv.org/abs/2211.02011), on inverse scaling
 
 Dates
-: <span>HW 3 Released Mon 2/26</span>{:.label.label-green} <span>RQ 3 Released Fri 3/1</span>{:.label.label-green}
+: <span>RQ 3 Released Fri 3/1</span>{:.label.label-green}
