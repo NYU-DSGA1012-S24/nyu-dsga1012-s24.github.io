@@ -8,9 +8,10 @@ We introduce language model alignment, a technique for turning language models i
 
 Lecture
 : Alignment, RLHF, DPO, InstructGPT, AI safety
+: [Slides](https://drive.google.com/file/d/1dat9TNLvu61WJ4DLFleV2O3wAkJ_6CDu/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/JAjEJlUtfvja2BsezTwkj_13vw-dujgTN6GbKQ9TPYpnqaSisMyGJOcqtEmXR-bu.Y-sbhiUIR3n1qjeD), [Extra Slides](https://drive.google.com/file/d/1FpF0t6udBXMCPP53yeRNIxJnXGboLF-v/view?usp=drive_link) (that we didn't get to in class)
 
 Lab
-: TBD
+: Mini-proposal requirements and peer review
 
 Reading
 : **Tutorial**{: .label .label-yellow } Week 7 Handout (to be released)

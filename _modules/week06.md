@@ -11,7 +11,8 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1BuaERVA1dxFDfdh5NrVEsdA-SOaTiIwj/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/iG3hWGqWm2y8t-BkRY0ybCidKHrDPhSdrM0P29YFi462bY29wF4hjiGfnzWkxQ.K1tJLRBROAdUbDuy) 
 
 Lab
-: TBD
+: Testing GPT-4's color perception
+: [Zoom Recording](https://nyu.zoom.us/rec/share/3WD1gRqMQ-cWj3wkZlZZgAZP_7aB3zHHrJK40PA78WA6ayu13uz9Fynrt4hxLRAG.yyYVQubkLoh3wONQ)
 
 Reading
 : **Tutorial**{: .label .label-yellow } Alammar's (2019) tutorials on [GPT-2](https://jalammar.github.io/illustrated-gpt2/) and [GPT-3](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
