@@ -38,6 +38,9 @@ footer_content:
 # Collections for website data
 collections:
   modules:
+  project:
+    permalink: "/:collection/:path"
+    output: true
   assignments:
     permalink: "/:collection/:path"
     output: true
@@ -47,6 +50,9 @@ collections:
 
 just_the_docs:
   collections:
+    project:
+        name: Project Guidelines
+        nav_fold: true
     assignments:
       name: Assignments
       nav_fold: true
