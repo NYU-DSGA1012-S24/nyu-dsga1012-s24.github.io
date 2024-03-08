@@ -20,4 +20,4 @@ Reading
 : [Tian et al. (2023)](https://arxiv.org/abs/2311.08401), [Yu et al. (2023)](https://arxiv.org/abs/2305.14002), [Vu et al. (2023)](https://arxiv.org/abs/2310.03214), and [Du et al. (2023)](https://arxiv.org/abs/2305.14325): improving factuality in LLMs
 
 Dates
-: <span>HW 3 Due</span>{:.label.label-red} 
+: <span>HW 3 Due</span>{:.label.label-red} <span>Project Mini-Proposal Due 3/30</span>{:.label.label-red}

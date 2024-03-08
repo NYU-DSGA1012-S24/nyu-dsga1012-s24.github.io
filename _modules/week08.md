@@ -19,4 +19,4 @@ Reading
 : [Hobsbawn (1996)](https://www.jstor.org/stable/40971324) on language and nationalism; [Davis (2000)](https://search.library.nyu.edu/view/action/uresolver.do?operation=resolveService&package_service_id=24317922320007876&institutionId=7876&customerId=7870&VE=true), Introduction and Chapter 8, on the creation of Italy and the Italian language
 
 Dates
-: <span>Project Mini-Proposal Due</span>{:.label.label-red} <span>RQ 4 Released Fri 3/15</span>{:.label.label-green}
+: <span>RQ 4 Released Fri 3/15</span>{:.label.label-green}
