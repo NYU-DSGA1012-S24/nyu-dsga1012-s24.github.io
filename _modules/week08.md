@@ -8,7 +8,7 @@ We learn about what language is and how to think about it objectively and scient
 
 Lecture
 : Descriptive vs. prescriptive grammar, languages vs. dialects, linguistic nationalism and prejudice, generative grammar, typology and low-resource NLP
-
+: [Slides](https://drive.google.com/file/d/1X_BmUWSwl3_NJC9uN1AWkJ2Y_FYV0ZTF/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/eOR8PPtmmb32PtapN1Ywigqu4-dH8blkeILdcW77IBkWB9Fygq-CM_RmnhowS8yT.cwILvlFo4lxQROqW), [Extra Slides](https://drive.google.com/file/d/1puGVIQKpJr639EPkh-ZQdHkOjnEjAhmk/view?usp=drive_link) (that we didn't get to in class)
 Lab
 : TBD
 

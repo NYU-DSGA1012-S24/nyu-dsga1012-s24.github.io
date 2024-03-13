@@ -12,7 +12,7 @@ Lecture
 
 Lab
 : Mini-proposal requirements and peer review
-: [Slides](https://drive.google.com/file/d/1X6crhWDiSPBLNJ1wKqGFv4_lSsOwWSwA/view?usp=sharing)
+: [Slides](https://drive.google.com/file/d/1X6crhWDiSPBLNJ1wKqGFv4_lSsOwWSwA/view?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/UIRk2EmLVlQR-EWKhYCbXZ9enXvl29GZAFJMWWv8WxELtM27QaZ8Wob9-Qie6ICi.wtXtqbkiPWkBz_aG)
 
 Reading
 : **Tutorial**{: .label .label-yellow } Week 7 Handout (to be released)
