@@ -8,6 +8,7 @@ What does a language model "know" or "believe"? We explore recent attempts to de
 
 Lecture
 : Factuality, beliefs, question answering, retrieval-augmented models, question answering, FactScore
+: [Slides](https://drive.google.com/file/d/1pNOQdehjDTRNTCVv1jYkWGvQsTuYTosF/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/61qgGjNmXK1gXa6XfqlkZ0pWNMiEZQAOqGy2X9QyLZAgOBGre1I4mBbcRMXfEV0.60ZUh7qiXV-E7m0N)
 
 Lab
 : TBD
@@ -20,4 +21,4 @@ Reading
 : [Tian et al. (2023)](https://arxiv.org/abs/2311.08401), [Yu et al. (2023)](https://arxiv.org/abs/2305.14002), [Vu et al. (2023)](https://arxiv.org/abs/2310.03214), and [Du et al. (2023)](https://arxiv.org/abs/2305.14325): improving factuality in LLMs
 
 Dates
-: <span>HW 3 Due</span>{:.label.label-red} <span>Project Mini-Proposal Due 3/30</span>{:.label.label-red}
+: <span>Project Mini-Proposal Due 3/30</span>{:.label.label-red}

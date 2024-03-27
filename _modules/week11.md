@@ -19,4 +19,4 @@ Reading
 : [Linzen (2020)](https://arxiv.org/abs/2005.00955), [Yedetore et al. (2023)](https://arxiv.org/abs/2301.11462) and [Warstadt et al. (2023)](https://aclanthology.org/volumes/2023.conll-babylm/), on pre-training vs. human language acquisition
 
 Dates
-: <span>RQ 5 Released Fri 4/12</span>{:.label.label-green}
+: <span>RQ 5 Released Fri 4/12</span>{:.label.label-green} <span>Project Full Proposal Due</span>{:.label.label-red}

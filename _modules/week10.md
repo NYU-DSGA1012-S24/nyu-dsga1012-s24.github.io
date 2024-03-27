@@ -19,4 +19,4 @@ Reading
 : [Yang et al. (2023)](https://arxiv.org/abs/2306.15626) and [Trinh et al. (2024)](https://www.nature.com/articles/s41586-023-06747-5): enhancing the reasoning capabilities of language models
 
 Dates
-: <span>Project Full Proposal Due</span>{:.label.label-red}
+: <span>HW 3 Due</span>{:.label.label-red}
