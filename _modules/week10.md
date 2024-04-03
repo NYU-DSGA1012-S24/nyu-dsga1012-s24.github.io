@@ -8,6 +8,7 @@ Can language models engage in complex, multi-step logical reasoning? We survey v
 
 Lecture
 : Interpretability and model analysis, targeted challenge benchmarks, attention visualization, probing
+: [Slides](https://drive.google.com/file/d/1Bhz1Yk4LbxNSgbUm0g0xFfcBzyAT2DW0/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/KHv6ASspyhyGReABX568lyK9oUJF8WzBBe3McBtY8eGiDIhtWA6jBjnzGngB_QP3.nqM6U7Fr-Mr0TQMv)
 
 Lab
 : TBD
