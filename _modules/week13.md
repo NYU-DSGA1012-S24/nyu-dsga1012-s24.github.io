@@ -19,4 +19,4 @@ Reading
 : [Karamolegkou et al. (2023)](https://arxiv.org/abs/2310.13771), on copyright
 
 Dates
-: <span>Pass/Fail Deadline Tues 4/23</span>{:.label.label-purple} <span>Withdrawal Deadline Tues 4/23</span>{:.label.label-purple} <span>Final Paper Draft Due</span>{:.label.label-red} <span>RQ 6 Released Fri 4/26</span>{:.label.label-green}
+: <span>Pass/Fail Deadline Tues 4/23</span>{:.label.label-purple} <span>Withdrawal Deadline Tues 4/23</span>{:.label.label-purple} <span>Project Full Proposal Due</span>{:.label.label-red} <span>RQ 6 Released Fri 4/26</span>{:.label.label-green} 

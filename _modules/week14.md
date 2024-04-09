@@ -16,3 +16,6 @@ Reading
 : [Pfungst (1907/1911)](https://www.gutenberg.org/ebooks/33936), on Clever Hans
 : [Bender and Koller (2020)](https://aclanthology.org/2020.acl-main.463/) and [NYU debate](https://www.youtube.com/watch?v=x10964w00zk) on grounding
 : [Chalmers (2023)](https://arxiv.org/abs/2303.07103) and [Butlin et al. (2023)](https://arxiv.org/abs/2308.08708), on consciousness
+
+Dates
+: <span>Final Paper Draft Due 5/4</span>{:.label.label-red}

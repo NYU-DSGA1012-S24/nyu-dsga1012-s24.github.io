@@ -11,7 +11,7 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1pNOQdehjDTRNTCVv1jYkWGvQsTuYTosF/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/61qgGjNmXK1gXa6XfqlkZ0pWNMiEZQAOqGy2X9QyLZAgOBGre1I4mBbcRMXfEV0.60ZUh7qiXV-E7m0N)
 
 Lab
-: TBD
+: [Zoom Recording](https://nyu.zoom.us/rec/share/FpHC_wrOQX5JCfiHQSQwp17kFvnq4BiPa8sbc5JfXdivWlbcCO4j0cFvHo88zsma.mypaA1nOENhl8VGm)
 
 Reading
 : [Petroni et al. (2019)](https://arxiv.org/abs/1909.01066) and [Min et al. (2023)](https://arxiv.org/abs/2305.14251), on knowledge and factuality

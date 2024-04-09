@@ -11,7 +11,7 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1Bhz1Yk4LbxNSgbUm0g0xFfcBzyAT2DW0/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/KHv6ASspyhyGReABX568lyK9oUJF8WzBBe3McBtY8eGiDIhtWA6jBjnzGngB_QP3.nqM6U7Fr-Mr0TQMv)
 
 Lab
-: TBD
+: [Zoom Recording](https://nyu.zoom.us/rec/share/4V4sGURgXccK26lfR8LsVTafYzsprz3RXoaavNr38DbGOp6QkdPZ2V6SM7a619G2.yAab_0Pqw_wzsTap)
 
 Reading
 : [Kojima et al. (2022)](https://arxiv.org/abs/2205.11916), [Saparov and He (2023)](https://arxiv.org/abs/2210.01240), [Saparov et al. (2023)](https://arxiv.org/abs/2305.15269), and [Press et al. (2023)](https://arxiv.org/abs/2210.03350), on multi-hop reasoning
