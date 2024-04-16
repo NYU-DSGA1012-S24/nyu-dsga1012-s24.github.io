@@ -12,7 +12,7 @@ Lecture
 
 Lab
 : History of the Transformer architecture 
-: [Zoom Recording](https://nyu.zoom.us/rec/share/4V4sGURgXccK26lfR8LsVTafYzsprz3RXoaavNr38DbGOp6QkdPZ2V6SM7a619G2.yAab_0Pqw_wzsTap)
+: [Slides](https://drive.google.com/file/d/1Nn9lI5sEtEXAxGywM9KodLYKmoMpAjpM/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/4V4sGURgXccK26lfR8LsVTafYzsprz3RXoaavNr38DbGOp6QkdPZ2V6SM7a619G2.yAab_0Pqw_wzsTap)
 
 Reading
 : [Wilcox et al. (2023)](https://doi.org/10.1162/tacl_a_00612), [Oh and Schuler (2023)](https://doi.org/10.1162/tacl_a_00548), and [Huang et al. (2023)](https://osf.io/preprints/psyarxiv/z38u6), on surprisal theory
