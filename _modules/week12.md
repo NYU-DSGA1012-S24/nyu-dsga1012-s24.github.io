@@ -8,6 +8,8 @@ Communication is key if you want to participate in the scientific community of N
 
 Lecture
 : Writing skills, how to give a talk
+: [Slides](https://drive.google.com/file/d/189GtFAyxQbpArWkHukvpqVR11vcJjhl0/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/y9lSEyUtWGRHlVnuMDvaZKVgmSky0VKn2H7Ej7sMI7bIsHBDact6CjHxofSRBbVd.xx1vpNe3v0-ul66V)
+: [Example Talk Video](https://slideslive.com/38991164/chain-of-thought-prompting-elicits-reasoning-in-large-language-models) (Jason Wei, on CoT prompting)
 
 Lab
 : Practice talks
