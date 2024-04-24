@@ -13,7 +13,7 @@ Lecture
 
 Lab
 : Linguistic evaluation of language models
-: [Colab Notebook](https://colab.research.google.com/drive/12VNVFvZtDjPwqDdsksVnImY3vFxvrEqs?usp=sharing)
+: [Colab Notebook](https://colab.research.google.com/drive/12VNVFvZtDjPwqDdsksVnImY3vFxvrEqs?usp=sharing), [Zoom Recording](https://nyu.zoom.us/rec/share/qp-aD4yn5Yo_GBB6Bf3JtCGkZC54l0d_KxEiFWKAXLrkBFg4cUl9UJQ9lrlUPtu8.gLMzB9HVyKQ6JPF7)
 
 Reading
 : [Kojima et al. (2022)](https://arxiv.org/abs/2205.11916), [Saparov and He (2023)](https://arxiv.org/abs/2210.01240), [Saparov et al. (2023)](https://arxiv.org/abs/2305.15269), and [Press et al. (2023)](https://arxiv.org/abs/2210.03350), on multi-hop reasoning

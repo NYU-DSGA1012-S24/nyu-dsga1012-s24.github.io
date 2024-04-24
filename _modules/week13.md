@@ -11,7 +11,7 @@ Lecture
 : [Slides](https://drive.google.com/file/d/14wUanMBBvJL6oQo9kYn2cEpr3wTqIdOm/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/h9VGSbbwp_nEWgQxUDInVzAl_7tk5uLFlwBEKRSXkysRBPwSeBw5gJdMDH4Xb7Ra.EwP6izZ7S18NAjEI), [Extra Slides](https://drive.google.com/file/d/1lgI8x56nmTrAAKpagg3a6OLhJXkya3yc/view?usp=drive_link) (that we didn't get to in class)
 
 Lab
-: TBD
+: Extra office hours with Cara and Sophie
 
 Reading
 : [Bommasani et al. (2022)](https://arxiv.org/abs/2108.07258), Section 5, and [Bender et al. (2021)](https://dl.acm.org/doi/10.1145/3442188.3445922), on the risks of language models

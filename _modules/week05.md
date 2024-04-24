@@ -11,6 +11,7 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1IXvfw7auti35bDl0oQ5EAqodgBdFxZzJ/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/jc5TLTUupL35ziXJtsarU5uDULQ6ZwR5FQXZXZKREdkvGFPe3wTI8wQcPXc6XqD8.mVFEh_OVEdg9cqP_)
 
 Lab
+: How to use HPC
 : [Slides](https://docs.google.com/presentation/d/1ondkpOD3E6C3aG8NqNVnT1L6mIOibXyVbwIfpjoZQhw/edit?usp=sharing), [Zoom Recording from Last Year](https://nyu.zoom.us/rec/share/bhBLBV7YBV1ZkKkTbQCFyIyGGrsPVMX_0elHSDqZjcoj-OPFow0C0F9o1003QVbt.9GLcbzuof6KHFCYR) (Unfortunately, we forgot to record this lab!)
 
 Reading
