@@ -8,6 +8,7 @@ We have now learned many ways to teach a model about “meaning.” But do model
 
 Lecture
 : Understanding, behavioralism, grounding, consciousness
+: [Slides](https://drive.google.com/file/d/1FNu33x8kdVlZGZsF-tZh4PAWBXtHJ0JH/view?usp=drive_link), [Zoom Recording](https://nyu.zoom.us/rec/share/d0oPfZTFYb0wJZozaC6t1J_h02DPMS-oVULWizdhL7idsM_n9pJfsDGkQd2DSBK_.jYu2MjT1R5Dqxi5V)
 
 Lab
 : TBD
